@@ -1,0 +1,12 @@
+Requirements:
+- Python 3.8+
+- gymnasium
+- tensorflow
+- numpy
+
+Instructions:
+1. Install dependencies: `pip install gymnasium tensorflow numpy`
+2. Run the training notebook (training.ipynb) to train the agent. This will save the trained model in the `models/` folder.
+3. Run the testing notebook (testing.ipynb) to evaluate the trained agent.
+
+Ensure both notebooks are in the same directory as the `models/` folder.
